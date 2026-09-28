@@ -1,0 +1,6 @@
+{
+  "name": "Kids Joy Learning",
+  "description": "Fun and interactive preschool learning app with English and Hindi alphabets, counting 1-100, math tables, stories, and rhymes with voice narration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
